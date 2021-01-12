@@ -1,14 +1,14 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
+    "title": "huyendoesstuff",
     "home_page_url": "/",
     "feed_url": "/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "just me minding my own business",
     "icon": "/apple-touch-icon.png",
     "favicon": "/favicon.ico",
     "expired": false,
     
-    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    "author": "{"twitter"=>"huyendoesstuff", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
     
 "items": [
     
@@ -28,7 +28,7 @@
             "date_modified": "2021-01-12T00:00:00+07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter"=>"huyendoesstuff", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
                 
             
         },
@@ -49,7 +49,7 @@
             "date_modified": "2021-01-09T00:00:00+07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter"=>"huyendoesstuff", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
                 
             
         },
@@ -70,7 +70,7 @@
             "date_modified": "2020-12-30T00:00:00+07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter"=>"huyendoesstuff", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
                 
             
         },
@@ -91,7 +91,7 @@
             "date_modified": "2020-12-30T00:00:00+07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter"=>"huyendoesstuff", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
                 
             
         }

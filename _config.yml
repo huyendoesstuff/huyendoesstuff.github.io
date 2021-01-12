@@ -1,13 +1,13 @@
-site: Sidey
+site: huyendoesstuff
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: huyendoesstuff
+description: just me minding my own business
 twitter:
-  username: #yourusername
+  username: huyendoesstuff
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
+  twitter: huyendoesstuff
   name: #yourusername
   avatar:
   email: #youremail
