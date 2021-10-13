@@ -1,9 +1,25 @@
-# huyendoesstuff
+# Sidey
 
-Hi! It's Huyen here. I love writing and I wanted to have a simple themed blog, so here we are.
-    
-I also like doing stuff, hence the name.
-    
-[huyendoesstuff.github.io](https://huyendoesstuff.github.io)
+Sidey is a simple and minimalistic jekyll blogging theme.
 
-The Jekyll theme is [Sidey](https://github.com/ronv/sidey).
+### Features
+
+- Responsive design
+- Inline CSS
+- Anchor headings
+- Search
+- Tags & tag pages
+- Security headers (for Netlify hosting)
+- 404 page
+- Compressed CSS and HTML
+- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
+- Robots.txt
+- Atom & Json feeds
+- Sass
+- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
+- Ultra fast (Only ~5kb of CSS)
+- Sidebar navigation
+
+### Screenshot
+
+![Screenshot](screenshot.png)

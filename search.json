@@ -1,17 +1,47 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{post.categories | join: ', '}}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}",
-      "description" : "{{post.description | strip_html | strip_newlines | escape }}"
+      "title"    : "It&#39;s been a while",
+      "url"      : "/2021/a-while",
+      "category" : "",
+      "tags"     : "thoughts",
+      "date"     : "2021-10-12 00:00:00 -0500",
+      "description" : "Some updates"
 
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    } ,
+  
+    {
+
+      "title"    : "The narrative on moving through life",
+      "url"      : "/2021/the-narrative",
+      "category" : "",
+      "tags"     : "thoughts",
+      "date"     : "2021-01-12 00:00:00 -0600",
+      "description" : "some thoughts on tolerating trauma moments"
+
+    } ,
+  
+    {
+
+      "title"    : "My top series",
+      "url"      : "/2021/top-series",
+      "category" : "",
+      "tags"     : "movies, series",
+      "date"     : "2021-01-09 00:00:00 -0600",
+      "description" : "My top series"
+
+    } ,
+  
+    {
+
+      "title"    : "My top movies",
+      "url"      : "/2020/top-movies",
+      "category" : "",
+      "tags"     : "movies",
+      "date"     : "2020-12-30 00:00:00 -0600",
+      "description" : "My top 10 movies"
+
+    } 
+  
 ]

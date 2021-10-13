@@ -1,60 +1,100 @@
----
-layout: null
----
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "{{ site.title | xml_escape }}",
-    "home_page_url": "{{ "/" | absolute_url }}",
-    "feed_url": "{{ "/feed.json" | absolute_url }}",
-    "description": {{ site.description | jsonify }},
-    "icon": "{{ "/apple-touch-icon.png" | absolute_url }}",
-    "favicon": "{{ "/favicon.ico" | absolute_url }}",
+    "title": "huyendoesstuff",
+    "home_page_url": "huyendoesstuff.github.io/",
+    "feed_url": "huyendoesstuff.github.io/feed.json",
+    "description": "just me minding my own business",
+    "icon": "huyendoesstuff.github.io/apple-touch-icon.png",
+    "favicon": "huyendoesstuff.github.io/favicon.ico",
     "expired": false,
-    {% if site.author %}
-    "author": {% if site.author.name %} {
-        "name": "{{ site.author.name }}",
-        "url": {% if site.author.url %}"{{ site.author.url }}"{% else %}null{% endif %},
-        "avatar": {% if site.author.avatar %}"{{ site.author.avatar }}"{% else %}null{% endif %}
-    },{% else %}"{{ site.author }}",{% endif %}
-    {% endif %}
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
 "items": [
-    {% for post in site.posts limit:36 %}
+    
         {
-            "id": "{{ post.url | absolute_url | sha1 }}",
-            "title": {{ post.title | jsonify }},
-            "summary": {{ post.description | jsonify }},
-            "content_text": {{ post.content | strip_html | strip_newlines | jsonify }},
-            "content_html": {{ post.content | strip_newlines | jsonify }},
-            "url": "{{ post.url | absolute_url }}",
-            {% if post.image.size > 1 %}"image": {{ post.image | jsonify }},{% endif %}
-            {% if post.link.size > 1 %}"external_url": "{{ post.link }}",{% endif %}
-            {% if post.banner.size > 1 %}"banner_image": "{{ post.banner }}",{% endif %}
-            {% if post.tags.size > 1 %}"tags": {{ post.tags | jsonify }},{% endif %}
-            {% if post.enclosure.size > 1 %}"attachments": [ {
-              "url": "{{ post.enclosure }}",
-              "mime_type": "{{ post.enclosure_type }}",
-              "size_in_bytes": "{{ post.enclosure_length }}"
-            },{% endif %}
-            "date_published": "{{ post.date | date_to_xmlschema }}",
-            "date_modified": "{{ post.date | date_to_xmlschema }}",
-            {% if post.author %}
-                "author": {% if post.author.name %} {
-                "name": "{{ post.author.name }}",
-                "url": {% if post.author.url %}"{{ post.author.url }}"{% else %}null{% endif %},
-                "avatar": {% if post.author.avatar %}"{{ post.author.avatar }}"{% else %}null{% endif %}
-                }
-                {% else %}"{{ post.author }}"{% endif %}
-            {% else %}
-                "author": {% if site.author.name %} {
-                "name": "{{ site.author.name }}",
-                "url": {% if site.author.url %}"{{ site.author.url }}"{% else %}null{% endif %},
-                "avatar": {% if site.author.avatar %}"{{ site.author.avatar }}"{% else %}null{% endif %}
-                }
-                {% else %}
-                "{{ site.author }}"
-                {% endif %}
-            {% endif %}
-        }{% if forloop.last == false %},{% endif %}
-    {% endfor %}
+            "id": "huyendoesstuff.github.io/2021/a-while",
+            "title": "It's been a while",
+            "summary": "Some updates",
+            "content_text": "Oh, hello, you!It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.Interesting.One new thing I learn since the last time I was here is that I need to build the site with jekyll build, then take onlywhatever within the _site folder and put them in the branch for deploying. I was doing it all wrong—no wonder whyit didn’t work as I expected.I moved back to the US. Things have been crazy in the last four months. So many things happened.I teach now, so I guess I’m a teacher?! Still feel very fresh in the role. I’m truly happy I got to do what I love,and I love what I do.One thing I know now is that we learn better by example. If you never witness a woman lifts a 200-pound weight,you may not even believe these kinds of thing happen. But it is true. You witness it, and you believe that a humanbeing can do it, and then you believe you can do it.I recently got hooked with reddit. I feel like I can be mindful and intentional about the topics that I want tosee, instead of feeds with overflowing recommended contents or updates of someone whose life may not be of myinterest.",
+            "content_html": "<p>Oh, hello, you!</p><p>It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.Interesting.</p><p>One new thing I learn since the last time I was here is that I need to build the site with <code>jekyll build</code>, then take onlywhatever within the _site folder and put them in the branch for deploying. I was doing it all wrong—no wonder whyit didn’t work as I expected.</p><p>I moved back to the US. Things have been crazy in the last four months. So many things happened.</p><p>I teach now, so I guess I’m a teacher?! Still feel very fresh in the role. I’m truly happy I got to do what I love,and I love what I do.</p><p>One thing I know now is that we learn better by <strong>example</strong>. If you never witness a woman lifts a 200-pound weight,you may not even believe these kinds of thing happen. But it <em>is</em> true. You witness it, and you believe that a humanbeing can do it, and then you believe <em>you</em> can do it.</p><p>I recently got hooked with reddit. I feel like I can be mindful and intentional about the <em>topics</em> that I want tosee, instead of feeds with overflowing recommended contents or updates of someone whose life may not be of myinterest.</p>",
+            "url": "huyendoesstuff.github.io/2021/a-while",
+            
+            
+            
+            
+            
+            "date_published": "2021-10-12T00:00:00-05:00",
+            "date_modified": "2021-10-12T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "huyendoesstuff.github.io/2021/the-narrative",
+            "title": "The narrative on moving through life",
+            "summary": "some thoughts on tolerating trauma moments",
+            "content_text": "It’s been uneasy for me to write this down, but because of the amount of gratitude Iheld dearly in my heart for the support I got from these sensational words, I decided to start this one.Here’s the tweet that has changed the game for me:  here’s to the people who’s trauma did not give them thick skin. the ones who became more sensitive and  insecure, who cry more easily, who get overwhelmed at small things. i’m so tired of the narrative that trauma makes you tough and untouchable. we’re survivors, not superheroes.  —– jules rylan ✡︎ @radiantbutch · Jan 4, 2021I was speechless and emotional after reading the statement. I have always been an emotional person. But this hit hard,and different. For the first time I feel like I’m free from the expectation where I should be ok by now, now that I understand I don’tnecessarily have to end my story with a forced positive note.",
+            "content_html": "<p>It’s been uneasy for me to write this down, but because of the amount of gratitude Iheld dearly in my heart for the support I got from these sensational words, I decided to start this one.</p><p>Here’s the <a href=\"https://twitter.com/radiantbutch/status/1346136160876302337\">tweet</a> that has changed the game for me:</p><blockquote>  <p>here’s to the people who’s trauma did not give them thick skin. the ones who became more sensitive and  insecure, who cry more easily, who get overwhelmed at small things. i’m so tired of the narrative that trauma makes you tough and untouchable. we’re survivors, not superheroes.</p></blockquote><blockquote>  <p>—– jules rylan ✡︎ @radiantbutch · Jan 4, 2021</p></blockquote><p>I was speechless and emotional after reading the statement. I have always been an emotional person. But this hit hard,and different. For the first time I feel like I’m free from the expectation where <em>I should be ok by now</em>, now that I understand I don’tnecessarily have to end my story with a forced positive note.</p>",
+            "url": "huyendoesstuff.github.io/2021/the-narrative",
+            
+            
+            
+            
+            
+            "date_published": "2021-01-12T00:00:00-06:00",
+            "date_modified": "2021-01-12T00:00:00-06:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "huyendoesstuff.github.io/2021/top-series",
+            "title": "My top series",
+            "summary": "My top series",
+            "content_text": "      Fleabag        Hospital Playlist        Schitt’s Creek        New Girl        Community/Brooklyn 99  ",
+            "content_html": "<ol>  <li>    <p>Fleabag</p>  </li>  <li>    <p>Hospital Playlist</p>  </li>  <li>    <p>Schitt’s Creek</p>  </li>  <li>    <p>New Girl</p>  </li>  <li>    <p>Community/Brooklyn 99</p>  </li></ol>",
+            "url": "huyendoesstuff.github.io/2021/top-series",
+            
+            
+            
+            "tags": ["movies","series"],
+            
+            "date_published": "2021-01-09T00:00:00-06:00",
+            "date_modified": "2021-01-09T00:00:00-06:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "huyendoesstuff.github.io/2020/top-movies",
+            "title": "My top movies",
+            "summary": "My top 10 movies",
+            "content_text": "/* Will add more comments to each of the movies later */      Little women (2019)        About time        Brooklyn        Pride and Prejudice (2005)        Call me by your name        Chungking Express        500 days of Summer        Before Sunrise        Before Sunset        Wild  ",
+            "content_html": "<p>/* Will add more comments to each of the movies later */</p><ol>  <li>    <p>Little women (2019)</p>  </li>  <li>    <p>About time</p>  </li>  <li>    <p>Brooklyn</p>  </li>  <li>    <p>Pride and Prejudice (2005)</p>  </li>  <li>    <p>Call me by your name</p>  </li>  <li>    <p>Chungking Express</p>  </li>  <li>    <p>500 days of Summer</p>  </li>  <li>    <p>Before Sunrise</p>  </li>  <li>    <p>Before Sunset</p>  </li>  <li>    <p>Wild</p>  </li></ol>",
+            "url": "huyendoesstuff.github.io/2020/top-movies",
+            
+            
+            
+            
+            
+            "date_published": "2020-12-30T00:00:00-06:00",
+            "date_modified": "2020-12-30T00:00:00-06:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
     ]
 }
