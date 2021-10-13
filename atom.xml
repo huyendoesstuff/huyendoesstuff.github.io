@@ -4,7 +4,7 @@
  <title>huyendoesstuff</title>
  <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
  <link href="huyendoesstuff.github.io/"/>
- <updated>2021-10-13T04:29:50-05:00</updated>
+ <updated>2021-10-13T04:51:46-05:00</updated>
  <id>huyendoesstuff.github.io</id>
  <author>
    <name></name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>It's been a while</title>
-   <link href="huyendoesstuff.github.io/2021/a-while"/>
+   <link href="huyendoesstuff.github.io/a-while"/>
    <updated>2021-10-12T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/2021/a-while</id>
+   <id>huyendoesstuff.github.io/a-while</id>
    <content type="html">&lt;p&gt;Oh, hello, you!&lt;/p&gt;
 
 &lt;p&gt;It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.
@@ -43,9 +43,9 @@ interest.&lt;/p&gt;
  
  <entry>
    <title>The narrative on moving through life</title>
-   <link href="huyendoesstuff.github.io/2021/the-narrative"/>
+   <link href="huyendoesstuff.github.io/the-narrative"/>
    <updated>2021-01-12T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/2021/the-narrative</id>
+   <id>huyendoesstuff.github.io/the-narrative</id>
    <content type="html">&lt;p&gt;It’s been uneasy for me to write this down, but because of the amount of gratitude I
 held dearly in my heart for the support I got from these sensational words, I decided to start this one.&lt;/p&gt;
 
@@ -69,9 +69,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My top series</title>
-   <link href="huyendoesstuff.github.io/2021/top-series"/>
+   <link href="huyendoesstuff.github.io/top-series"/>
    <updated>2021-01-09T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/2021/top-series</id>
+   <id>huyendoesstuff.github.io/top-series</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Fleabag&lt;/p&gt;
@@ -94,9 +94,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My top movies</title>
-   <link href="huyendoesstuff.github.io/2020/top-movies"/>
+   <link href="huyendoesstuff.github.io/top-movies"/>
    <updated>2020-12-30T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/2020/top-movies</id>
+   <id>huyendoesstuff.github.io/top-movies</id>
    <content type="html">&lt;p&gt;/* Will add more comments to each of the movies later */&lt;/p&gt;
 
 &lt;ol&gt;
