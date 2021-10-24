@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: huyendoesstuff.github.io/sitemap.xml
