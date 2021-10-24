@@ -4,13 +4,177 @@
  <title>huyendoesstuff</title>
  <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
  <link href="huyendoesstuff.github.io/"/>
- <updated>2021-10-24T01:36:07-05:00</updated>
+ <updated>2021-10-24T07:23:38-05:00</updated>
  <id>huyendoesstuff.github.io</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>My books</title>
+   <link href="huyendoesstuff.github.io/my-books"/>
+   <updated>2021-10-24T00:00:00-05:00</updated>
+   <id>huyendoesstuff.github.io/my-books</id>
+   <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
+
+hr {
+  margin: 2rem 0 1rem;
+  border-top: 2px solid #cecece;
+}
+
+img {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Add Animation */
+.modal-content, #caption {
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)}
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+&lt;/style&gt;
+
+&lt;p&gt;As a very recent reader of books, here is my little collection, in the order that I read:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;side&quot;&gt;
+    &lt;div&gt;1. &lt;b&gt;No Hard Feelings&lt;/b&gt;: The Secret Power of Embracing Emotions at Work,
+     by Liz Fosslien, Mollie West Duffy&lt;/div&gt;
+  &lt;div&gt;&lt;br /&gt;&lt;i&gt;Keywords&lt;/i&gt;: Quotes and stories.&lt;/div&gt;
+ &lt;/div&gt;
+
+  &lt;div class=&quot;middle&quot;&gt;
+  3/10
+    &lt;div class=&quot;bar-container&quot;&gt;
+      &lt;div class=&quot;bar-30&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+	&lt;img src=&quot;/assets/images/NHFcover.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+  	&lt;img src=&quot;/assets/images/NHFcontent.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;side&quot;&gt;
+    &lt;div&gt;
+    	2. &lt;b&gt;The Four Agreements&lt;/b&gt;: A Practical Guide to Personal Freedom (A Toltec Wisdom Book), by don Miguel Ruiz
+    &lt;/div&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;i&gt;Keywords&lt;/i&gt;: Spirituality, extreme opinions, self awareness, love.&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;middle&quot;&gt;
+  8/10
+    &lt;div class=&quot;bar-container&quot;&gt;
+      &lt;div class=&quot;bar-80&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+ &lt;!-- images --&gt;
+  &lt;div class=&quot;column&quot;&gt;
+		&lt;img src=&quot;/assets/images/TFAcover.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+		&lt;img src=&quot;/assets/images/TFAcontent1.jpg&quot; style=&quot;width:100%&quot; /&gt;
+		&lt;img src=&quot;/assets/images/TFAcontent2.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+  		&lt;img src=&quot;/assets/images/TFAcontent3.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  		&lt;img src=&quot;/assets/images/TFAcontent4.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;
+			&lt;img src=&quot;/assets/images/TFAcontent5.jpg&quot; style=&quot;width:100%&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;side&quot;&gt;
+    &lt;div&gt;3. &lt;b&gt;The Missing Piece Meets The BIG O&lt;/b&gt;, by Shel Silverstein
+    &lt;/div&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;i&gt;Keywords&lt;/i&gt;: Proactive self improvement, self acceptance.&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;middle&quot;&gt;
+ 	9/10
+    &lt;div class=&quot;bar-container&quot;&gt;
+      &lt;div class=&quot;bar-90&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;column&quot;&gt;
+  	&lt;img src=&quot;/assets/images/TMPBOcover.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;/assets/images/TMPBOcontent1.jpg&quot; style=&quot;width:100%&quot; /&gt;
+   &lt;/div&gt;
+  	&lt;div class=&quot;column&quot;&gt;
+  		&lt;img src=&quot;/assets/images/TMPBOcontent2.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  		&lt;img src=&quot;/assets/images/TMPBOcontent3.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;myModal&quot; class=&quot;modal&quot;&gt;
+  &lt;img class=&quot;modal-content&quot; id=&quot;img01&quot; /&gt;
+  &lt;div id=&quot;caption&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;/assets/js/d3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/modal.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Sustain me baby</title>
