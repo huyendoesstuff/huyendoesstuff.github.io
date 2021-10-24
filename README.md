@@ -14,3 +14,6 @@ The Jekyll theme is [Sidey](https://github.com/ronv/sidey).
 Usage:
 - build in `source` branch
 - copy `_site` folder to branch master
+
+---
+❌ DO NOT MERGE `source` and `master`❗
