@@ -12,6 +12,11 @@ to me in the past but I will have (and code) my own blog now.
 
 Feels great isn't it 😊
 
+Update: Excerpt from [a recent visit in  October 2021]({% link _posts/2021-10-12-a-while.md %})
+
+> I need to build the site with `jekyll build`, then take whatever within the `_site` folder only and put them in the
+branch for deploying. I was doing it all wrong—no wonder why it didn't work as I expected.
+
 ### Featuring:
 
 - Books (new!) 🌟
