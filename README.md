@@ -9,3 +9,8 @@ Hi! It's Huyen here. I love writing and I wanted to have a simple themed blog, s
 I also like doing stuff, hence the name.
 
 The Jekyll theme is [Sidey](https://github.com/ronv/sidey).
+
+---
+Usage:
+- build in `source` branch
+- copy `_site` folder to branch master

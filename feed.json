@@ -13,6 +13,27 @@
 "items": [
     
         {
+            "id": "huyendoesstuff.github.io/sustain-me-baby",
+            "title": "Sustain me baby",
+            "summary": "Sustain me baby",
+            "content_text": "It’s no fun, and it’s no excitement. But I feel like it’s the one thing that really sustains me. It’s the onlything that does not overwhelm me with guilt and self-loathing at the end of the day.What is it?  Discipline and intentionally choosing my values over my emotions.Even when it comes to self-care, when emotion feels so close to what I should do to maintain self-love, there’s stilla fine line between values and feelings as to what I should choose to act on.Three lines for these days:      Don’t live in misery        Act on your values, not emotions        Take good care of yourself  Side note:My four burners as drawn by html and css.          Work          Health          &nbsp;Friends&nbsp;         &nbsp;Family&nbsp;  ",
+            "content_html": "<p>It’s no <em>fun</em>, and it’s no <em>excitement</em>. But I feel like it’s the one thing that really <strong>sustains</strong> me. It’s the onlything that does not overwhelm me with guilt and self-loathing at the end of the day.</p><h4 id=\"what-is-it\">What is it?</h4><blockquote>  <div style=\"text-align: center\">Discipline and intentionally choosing my values over my emotions.</div></blockquote><p>Even when it comes to self-care, when <em>emotion</em> feels so close to what I should do to maintain self-love, there’s stilla fine line between values and feelings as to what I should choose to act on.</p><p>Three lines for these days:</p><ol>  <li>    <p>Don’t live in misery</p>  </li>  <li>    <p>Act on your values, not emotions</p>  </li>  <li>    <p>Take good care of yourself</p>  </li></ol><h4 id=\"side-note\">Side note:</h4><p>My four burners as drawn by html and css.</p><style>@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');.circle{    margin:10px;    width:100px;    height:100px;    border-radius:100%;    color:#000;    text-align:center;    font-size:22px;    font-family: 'Satisfy', cursive, \"Times\";    overflow: hidden;    border: solid #777 1px;    display: inline-block;\tbackground-color:#fef1d2;     /*transform: rotate(-5deg);*/    }.circle.one-line{line-height:100px;}.circle.multi-line{    padding-top:30px;    height:70px;}.circle.burn{\tbackground-color:#ffda7e;\tfilter: drop-shadow(0 0 10px #ce5912);}.circle.cross{  text-decoration: line-through;}.container {  border: black solid 1px;  width: fit-content;  padding: 30px;}</style><div class=\"container\"><div>    <div class=\"circle one-line burn\">      Work  </div>  <div class=\"circle one-line burn\">      Health  </div></div><div>  <div class=\"circle one-line cross\">      &nbsp;Friends&nbsp;  </div>  <div class=\"circle one-line cross\">     &nbsp;Family&nbsp;  </div></div></div>",
+            "url": "huyendoesstuff.github.io/sustain-me-baby",
+            
+            
+            
+            
+            
+            "date_published": "2021-10-23T00:00:00-05:00",
+            "date_modified": "2021-10-23T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "huyendoesstuff.github.io/a-while",
             "title": "It's been a while",
             "summary": "Some updates",
