@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "huyendoesstuff",
-    "home_page_url": "huyendoesstuff.github.io/",
-    "feed_url": "huyendoesstuff.github.io/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "just me minding my own business",
-    "icon": "huyendoesstuff.github.io/apple-touch-icon.png",
-    "favicon": "huyendoesstuff.github.io/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "huyendoesstuff.github.io/my-books",
+            "id": "http://localhost:4000/my-books",
             "title": "My books",
             "summary": "Books",
             "content_text": "As a very recent reader of books, here is my little collection, in the order that I read:      1. No Hard Feelings: The Secret Power of Embracing Emotions at Work,     by Liz Fosslien, Mollie West Duffy  Keywords: Quotes and stories.     3/10                  \t      \t            \t2. The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book), by don Miguel Ruiz        Keywords: Spirituality, extreme opinions, self awareness, love.      8/10                   \t\t    \t\t\t\t      \t\t  \t\t  \t\t\t\t\t      3. The Missing Piece Meets The BIG O, by Shel Silverstein        Keywords: Proactive self improvement, self acceptance.     \t9/10                    \t             \t  \t\t  \t\t  \t    ",
             "content_html": "<style type=\"text/css\" rel=\"stylesheet\">@import url('/assets/css/books.css');</style><p>As a very recent reader of books, here is my little collection, in the order that I read:</p><div class=\"row\">  <div class=\"side\">    <div>1. <b>No Hard Feelings</b>: The Secret Power of Embracing Emotions at Work,     by Liz Fosslien, Mollie West Duffy</div>  <div><br /><i>Keywords</i>: Quotes and stories.</div> </div>  <div class=\"middle\">  3/10    <div class=\"bar-container\">      <div class=\"bar-30\"></div>    </div>  </div>  <div class=\"column\">\t<img src=\"/assets/images/NHFcover.jpg\" style=\"width:100%\" />  </div>  <div class=\"column\">  \t<img src=\"/assets/images/NHFcontent.jpg\" style=\"width:100%\" />  </div></div><hr /><div class=\"row\">  <div class=\"side\">    <div>    \t2. <b>The Four Agreements</b>: A Practical Guide to Personal Freedom (A Toltec Wisdom Book), by don Miguel Ruiz    </div>    <div><br /><i>Keywords</i>: Spirituality, extreme opinions, self awareness, love.</div>  </div>  <div class=\"middle\">  8/10    <div class=\"bar-container\">      <div class=\"bar-80\"></div>    </div>  </div> <!-- images -->  <div class=\"column\">\t\t<img src=\"/assets/images/TFAcover.jpg\" style=\"width:100%\" />  </div>  <div class=\"column\">\t\t<img src=\"/assets/images/TFAcontent1.jpg\" style=\"width:100%\" />\t\t<img src=\"/assets/images/TFAcontent2.jpg\" style=\"width:100%\" />  </div>  <div class=\"column\">  \t\t<img src=\"/assets/images/TFAcontent3.jpg\" style=\"width:100%\" />  \t\t<img src=\"/assets/images/TFAcontent4.jpg\" style=\"width:100%\" />  </div>\t<div class=\"column\">\t\t\t<img src=\"/assets/images/TFAcontent5.jpg\" style=\"width:100%\" />\t</div></div><hr /><div class=\"row\">  <div class=\"side\">    <div>3. <b>The Missing Piece Meets The BIG O</b>, by Shel Silverstein    </div>    <div><br /><i>Keywords</i>: Proactive self improvement, self acceptance.</div>  </div>  <div class=\"middle\"> \t9/10    <div class=\"bar-container\">      <div class=\"bar-90\"></div>    </div>  </div>  <div class=\"column\">  \t<img src=\"/assets/images/TMPBOcover.jpg\" style=\"width:100%\" />  </div>  <div class=\"column\">    <img src=\"/assets/images/TMPBOcontent1.jpg\" style=\"width:100%\" />   </div>  \t<div class=\"column\">  \t\t<img src=\"/assets/images/TMPBOcontent2.jpg\" style=\"width:100%\" />  \t\t<img src=\"/assets/images/TMPBOcontent3.jpg\" style=\"width:100%\" />  \t</div></div><div id=\"myModal\" class=\"modal\">  <img class=\"modal-content\" id=\"img01\" />  <div id=\"caption\"></div></div><script src=\"/assets/js/d3.min.js\"></script><script src=\"/assets/js/modal.js\"></script>",
-            "url": "huyendoesstuff.github.io/my-books",
+            "url": "http://localhost:4000/my-books",
             
             
             
@@ -34,33 +34,12 @@
         },
     
         {
-            "id": "huyendoesstuff.github.io/sustain-me-baby",
-            "title": "Sustain me baby",
-            "summary": "Sustain me baby",
-            "content_text": "It’s no fun, and it’s no excitement. But I feel like it’s the one thing that really sustains me. It’s the onlything that does not overwhelm me with guilt and self-loathing at the end of the day.What is it?  Discipline and intentionally choosing my values over my emotions.Even when it comes to self-care, when emotion feels so close to what I should do to maintain self-love, there’s stilla fine line between values and feelings as to what I should choose to act on.Three lines for these days:      Don’t live in misery        Act on your values, not emotions        Take good care of yourself  Side note:My four burners as drawn by html and css.          Work          Health          &nbsp;Friends&nbsp;         &nbsp;Family&nbsp;  ",
-            "content_html": "<p>It’s no <em>fun</em>, and it’s no <em>excitement</em>. But I feel like it’s the one thing that really <strong>sustains</strong> me. It’s the onlything that does not overwhelm me with guilt and self-loathing at the end of the day.</p><h4 id=\"what-is-it\">What is it?</h4><blockquote>  <div style=\"text-align: center\">Discipline and intentionally choosing my values over my emotions.</div></blockquote><p>Even when it comes to self-care, when <em>emotion</em> feels so close to what I should do to maintain self-love, there’s stilla fine line between values and feelings as to what I should choose to act on.</p><p>Three lines for these days:</p><ol>  <li>    <p>Don’t live in misery</p>  </li>  <li>    <p>Act on your values, not emotions</p>  </li>  <li>    <p>Take good care of yourself</p>  </li></ol><h4 id=\"side-note\">Side note:</h4><p>My four burners as drawn by html and css.</p><style>@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');.circle{    margin:10px;    width:100px;    height:100px;    border-radius:100%;    color:#000;    text-align:center;    font-size:22px;    font-family: 'Satisfy', cursive, \"Times\";    overflow: hidden;    border: solid #777 1px;    display: inline-block;\tbackground-color:#fef1d2;     /*transform: rotate(-5deg);*/    }.circle.one-line{line-height:100px;}.circle.multi-line{    padding-top:30px;    height:70px;}.circle.burn{\tbackground-color:#ffda7e;\tfilter: drop-shadow(0 0 10px #ce5912);}.circle.cross{  text-decoration: line-through;}.container {  border: black solid 1px;  width: fit-content;  padding: 30px;}</style><div class=\"container\"><div>    <div class=\"circle one-line burn\">      Work  </div>  <div class=\"circle one-line burn\">      Health  </div></div><div>  <div class=\"circle one-line cross\">      &nbsp;Friends&nbsp;  </div>  <div class=\"circle one-line cross\">     &nbsp;Family&nbsp;  </div></div></div>",
-            "url": "huyendoesstuff.github.io/sustain-me-baby",
-            
-            
-            
-            
-            
-            "date_published": "2021-10-23T00:00:00-05:00",
-            "date_modified": "2021-10-23T00:00:00-05:00",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        },
-    
-        {
-            "id": "huyendoesstuff.github.io/a-while",
+            "id": "http://localhost:4000/a-while",
             "title": "It's been a while",
             "summary": "Some updates",
             "content_text": "Oh, hello, you!It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.Interesting.One new thing I learn since the last time I was here is that I need to build the site with jekyll build, then take onlywhatever within the _site folder and put them in the branch for deploying. I was doing it all wrong—no wonder whyit didn’t work as I expected.I moved back to the US. Things have been crazy in the last four months. So many things happened.I teach now, so I guess I’m a teacher?! Still feel very fresh in the role. I’m truly happy I got to do what I love,and I love what I do.One thing I know now is that we learn better by example. If you never witness a woman lifts a 200-pound weight,you may not even believe these kinds of thing happen. But it is true. You witness it, and you believe that a humanbeing can do it, and then you believe you can do it.I recently got hooked with reddit. I feel like I can be mindful and intentional about the topics that I want tosee, instead of feeds with overflowing recommended contents or updates of someone whose life may not be of myinterest.",
             "content_html": "<p>Oh, hello, you!</p><p>It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.Interesting.</p><p>One new thing I learn since the last time I was here is that I need to build the site with <code>jekyll build</code>, then take onlywhatever within the _site folder and put them in the branch for deploying. I was doing it all wrong—no wonder whyit didn’t work as I expected.</p><p>I moved back to the US. Things have been crazy in the last four months. So many things happened.</p><p>I teach now, so I guess I’m a teacher?! Still feel very fresh in the role. I’m truly happy I got to do what I love,and I love what I do.</p><p>One thing I know now is that we learn better by <strong>example</strong>. If you never witness a woman lifts a 200-pound weight,you may not even believe these kinds of thing happen. But it <em>is</em> true. You witness it, and you believe that a humanbeing can do it, and then you believe <em>you</em> can do it.</p><p>I recently got hooked with reddit. I feel like I can be mindful and intentional about the <em>topics</em> that I want tosee, instead of feeds with overflowing recommended contents or updates of someone whose life may not be of myinterest.</p>",
-            "url": "huyendoesstuff.github.io/a-while",
+            "url": "http://localhost:4000/a-while",
             
             
             
@@ -76,12 +55,12 @@
         },
     
         {
-            "id": "huyendoesstuff.github.io/the-narrative",
+            "id": "http://localhost:4000/the-narrative",
             "title": "The narrative on moving through life",
             "summary": "some thoughts on tolerating trauma moments",
             "content_text": "It’s been uneasy for me to write this down, but because of the amount of gratitude Iheld dearly in my heart for the support I got from these sensational words, I decided to start this one.Here’s the tweet that has changed the game for me:  here’s to the people who’s trauma did not give them thick skin. the ones who became more sensitive and  insecure, who cry more easily, who get overwhelmed at small things. i’m so tired of the narrative that trauma makes you tough and untouchable. we’re survivors, not superheroes.  —– jules rylan ✡︎ @radiantbutch · Jan 4, 2021I was speechless and emotional after reading the statement. I have always been an emotional person. But this hit hard,and different. For the first time I feel like I’m free from the expectation where I should be ok by now, now that I understand I don’tnecessarily have to end my story with a forced positive note.",
             "content_html": "<p>It’s been uneasy for me to write this down, but because of the amount of gratitude Iheld dearly in my heart for the support I got from these sensational words, I decided to start this one.</p><p>Here’s the <a href=\"https://twitter.com/radiantbutch/status/1346136160876302337\">tweet</a> that has changed the game for me:</p><blockquote>  <p>here’s to the people who’s trauma did not give them thick skin. the ones who became more sensitive and  insecure, who cry more easily, who get overwhelmed at small things. i’m so tired of the narrative that trauma makes you tough and untouchable. we’re survivors, not superheroes.</p></blockquote><blockquote>  <p>—– jules rylan ✡︎ @radiantbutch · Jan 4, 2021</p></blockquote><p>I was speechless and emotional after reading the statement. I have always been an emotional person. But this hit hard,and different. For the first time I feel like I’m free from the expectation where <em>I should be ok by now</em>, now that I understand I don’tnecessarily have to end my story with a forced positive note.</p>",
-            "url": "huyendoesstuff.github.io/the-narrative",
+            "url": "http://localhost:4000/the-narrative",
             
             
             
@@ -97,12 +76,12 @@
         },
     
         {
-            "id": "huyendoesstuff.github.io/top-series",
+            "id": "http://localhost:4000/top-series",
             "title": "My top series",
             "summary": "My top series",
             "content_text": "      Fleabag        Hospital Playlist        Schitt’s Creek        New Girl        Community/Brooklyn 99  ",
             "content_html": "<ol>  <li>    <p>Fleabag</p>  </li>  <li>    <p>Hospital Playlist</p>  </li>  <li>    <p>Schitt’s Creek</p>  </li>  <li>    <p>New Girl</p>  </li>  <li>    <p>Community/Brooklyn 99</p>  </li></ol>",
-            "url": "huyendoesstuff.github.io/top-series",
+            "url": "http://localhost:4000/top-series",
             
             
             
@@ -118,12 +97,12 @@
         },
     
         {
-            "id": "huyendoesstuff.github.io/top-movies",
+            "id": "http://localhost:4000/top-movies",
             "title": "My top movies",
             "summary": "My top 10 movies",
             "content_text": "/* Will add more comments to each of the movies later */      Little women (2019)        About time        Brooklyn        Pride and Prejudice (2005)        Call me by your name        Chungking Express        500 days of Summer        Before Sunrise        Before Sunset        Wild  ",
             "content_html": "<p>/* Will add more comments to each of the movies later */</p><ol>  <li>    <p>Little women (2019)</p>  </li>  <li>    <p>About time</p>  </li>  <li>    <p>Brooklyn</p>  </li>  <li>    <p>Pride and Prejudice (2005)</p>  </li>  <li>    <p>Call me by your name</p>  </li>  <li>    <p>Chungking Express</p>  </li>  <li>    <p>500 days of Summer</p>  </li>  <li>    <p>Before Sunrise</p>  </li>  <li>    <p>Before Sunset</p>  </li>  <li>    <p>Wild</p>  </li></ol>",
-            "url": "huyendoesstuff.github.io/top-movies",
+            "url": "http://localhost:4000/top-movies",
             
             
             

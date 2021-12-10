@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>huyendoesstuff</title>
- <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
- <link href="huyendoesstuff.github.io/"/>
- <updated>2021-10-24T08:03:09-05:00</updated>
- <id>huyendoesstuff.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-12-10T02:09:58-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>My books</title>
-   <link href="huyendoesstuff.github.io/my-books"/>
+   <link href="http://localhost:4000/my-books"/>
    <updated>2021-10-24T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/my-books</id>
+   <id>http://localhost:4000/my-books</id>
    <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
 @import url('/assets/css/books.css');
 &lt;/style&gt;
@@ -119,105 +119,10 @@
  </entry>
  
  <entry>
-   <title>Sustain me baby</title>
-   <link href="huyendoesstuff.github.io/sustain-me-baby"/>
-   <updated>2021-10-23T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/sustain-me-baby</id>
-   <content type="html">&lt;p&gt;It’s no &lt;em&gt;fun&lt;/em&gt;, and it’s no &lt;em&gt;excitement&lt;/em&gt;. But I feel like it’s the one thing that really &lt;strong&gt;sustains&lt;/strong&gt; me. It’s the only
-thing that does not overwhelm me with guilt and self-loathing at the end of the day.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-it&quot;&gt;What is it?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;div style=&quot;text-align: center&quot;&gt;Discipline and intentionally choosing my values over my emotions.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even when it comes to self-care, when &lt;em&gt;emotion&lt;/em&gt; feels so close to what I should do to maintain self-love, there’s still
-a fine line between values and feelings as to what I should choose to act on.&lt;/p&gt;
-
-&lt;p&gt;Three lines for these days:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t live in misery&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Act on your values, not emotions&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Take good care of yourself&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;side-note&quot;&gt;Side note:&lt;/h4&gt;
-
-&lt;p&gt;My four burners as drawn by html and css.&lt;/p&gt;
-
-&lt;style&gt;
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&amp;display=swap');
-
-.circle{
-    margin:10px;
-    width:100px;
-    height:100px;
-    border-radius:100%;
-    color:#000;
-    text-align:center;
-    font-size:22px;
-    font-family: 'Satisfy', cursive, &quot;Times&quot;;
-    overflow: hidden;
-    border: solid #777 1px;
-    display: inline-block;
-	background-color:#fef1d2;
-     /*transform: rotate(-5deg);*/
-    }
-
-.circle.one-line{line-height:100px;}
-.circle.multi-line{
-    padding-top:30px;
-    height:70px;
-}
-.circle.burn{
-	background-color:#ffda7e;
-	filter: drop-shadow(0 0 10px #ce5912);
-}
-.circle.cross{
-  text-decoration: line-through;
-}
-.container {
-  border: black solid 1px;
-  width: fit-content;
-  padding: 30px;
-}
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-&lt;div&gt;
-    &lt;div class=&quot;circle one-line burn&quot;&gt;
-      Work
-  &lt;/div&gt;
-
-  &lt;div class=&quot;circle one-line burn&quot;&gt;
-      Health
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div&gt;
-  &lt;div class=&quot;circle one-line cross&quot;&gt;
-      &amp;nbsp;Friends&amp;nbsp;
-  &lt;/div&gt;
-  &lt;div class=&quot;circle one-line cross&quot;&gt;
-     &amp;nbsp;Family&amp;nbsp;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
    <title>It's been a while</title>
-   <link href="huyendoesstuff.github.io/a-while"/>
+   <link href="http://localhost:4000/a-while"/>
    <updated>2021-10-12T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/a-while</id>
+   <id>http://localhost:4000/a-while</id>
    <content type="html">&lt;p&gt;Oh, hello, you!&lt;/p&gt;
 
 &lt;p&gt;It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.
@@ -244,9 +149,9 @@ interest.&lt;/p&gt;
  
  <entry>
    <title>The narrative on moving through life</title>
-   <link href="huyendoesstuff.github.io/the-narrative"/>
+   <link href="http://localhost:4000/the-narrative"/>
    <updated>2021-01-12T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/the-narrative</id>
+   <id>http://localhost:4000/the-narrative</id>
    <content type="html">&lt;p&gt;It’s been uneasy for me to write this down, but because of the amount of gratitude I
 held dearly in my heart for the support I got from these sensational words, I decided to start this one.&lt;/p&gt;
 
@@ -270,9 +175,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My top series</title>
-   <link href="huyendoesstuff.github.io/top-series"/>
+   <link href="http://localhost:4000/top-series"/>
    <updated>2021-01-09T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-series</id>
+   <id>http://localhost:4000/top-series</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Fleabag&lt;/p&gt;
@@ -295,9 +200,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My top movies</title>
-   <link href="huyendoesstuff.github.io/top-movies"/>
+   <link href="http://localhost:4000/top-movies"/>
    <updated>2020-12-30T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-movies</id>
+   <id>http://localhost:4000/top-movies</id>
    <content type="html">&lt;p&gt;/* Will add more comments to each of the movies later */&lt;/p&gt;
 
 &lt;ol&gt;
