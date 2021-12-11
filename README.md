@@ -1,5 +1,7 @@
 # huyendoesstuff
 
+    ❌ DO NOT MERGE `source` and `master`❗
+
 *The* awesome page is finally here: [huyendoesstuff.github.io](https://huyendoesstuff.github.io)
 
 ---
@@ -15,5 +17,3 @@ Usage:
 - build in `source` branch
 - copy `_site` folder to branch master
 
----
-❌ DO NOT MERGE `source` and `master`❗
