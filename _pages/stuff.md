@@ -45,4 +45,6 @@ less spontaneity and more rigorous methodology.
 
 My publication page: <https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&hl=en>
 
+👩🏻‍🏫
+
 ... and lastly, my *very professional* site: [huyennguyen.com](https://huyennguyen.com)
