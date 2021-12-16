@@ -13,6 +13,48 @@
 "items": [
     
         {
+            "id": "huyendoesstuff.github.io/feel-good",
+            "title": "Feeling gooooood",
+            "summary": "at a Starbucks and thought of this",
+            "content_text": "A series of images either I found on the internet or in my life that make me smile.I’ve been lucky enough to be able to share this with my parents and they get it.No further description!",
+            "content_html": "<style type=\"text/css\" rel=\"stylesheet\">@import url('/assets/css/books.css');</style><p>A series of images either I found on the internet or in my life that make me smile.</p><p><img src=\"../assets/images/FGcontent1.jpg\" alt=\"tweet\" width=\"75%\" /></p><p>I’ve been lucky enough to be able to share this with my parents and they get it.</p><hr /><p><img src=\"../assets/images/FGcontent2.jpeg\" /></p><p>No further description!</p>",
+            "url": "huyendoesstuff.github.io/feel-good",
+            
+            
+            
+            
+            
+            "date_published": "2021-12-16T00:00:00-06:00",
+            "date_modified": "2021-12-16T00:00:00-06:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "huyendoesstuff.github.io/stuff",
+            "title": "Do I do stuff, even...",
+            "summary": "stuff",
+            "content_text": "Yup. I guess I do.🎶I play the ukulele, baritone ukulele and a little bit guitar, and I like to sing along. I have this little place onsoundcloud for all myrandom moments:https://soundcloud.com/huyendoesstuff/At first I just put it all there, to save the moments for me. But later, there was this friend of mine who said tome that she actually liked these audios. And listening to them… means something to her. Itwarms my heart just thinking about that :)✍🏼Ah yes, this blog…No doubts that I like writing – The reason for the existence of this very page. Most importantly, how to put oneword after one another that closely reflect how I feel – That’s the beauty of the whole thing, learning to expressmyself, and also learning about myself.📸Sometimes I take pictures here and there https://www.instagram.com/huyendoesstuff/… Onto the professional stuff:💻I am currently a PhD candidate in Computer Science, doing research in Data Visualization. So basically I code andmake visualizations that reveal what data is trying to express.My public code is at github: https://github.com/huyen-nguyen📝Um and I write manucripts - as a big part of research work. But this a is different kind of writing, which involvesless spontaneity and more rigorous methodology.My publication page: https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&amp;hl=en👩🏻‍🏫… and lastly, my very professional site: huyennguyen.com",
+            "content_html": "<p>Yup. I guess I do.</p><p>🎶</p><p>I play the ukulele, baritone ukulele and a little bit guitar, and I like to sing along. I have this little place onsoundcloud for all myrandom moments:<a href=\"https://soundcloud.com/huyendoesstuff/\">https://soundcloud.com/huyendoesstuff/</a></p><p>At first I just put it all there, to save the moments for <em>me</em>. But later, there was this friend of mine who said tome that she actually liked these audios. And listening to them… means something to her. Itwarms my heart just thinking about that :)</p><p>✍🏼</p><p>Ah yes, this blog…</p><p>No doubts that I like writing – The reason for the existence of this very page. Most importantly, how to put oneword after one another that closely reflect how I feel – That’s the beauty of the whole thing, learning to expressmyself, and also learning about myself.</p><p>📸</p><p>Sometimes I take pictures here and there <a href=\"https://www.instagram.com/huyendoesstuff/\">https://www.instagram.com/huyendoesstuff/</a></p><p>… Onto the professional stuff:</p><p>💻</p><p>I am currently a PhD candidate in Computer Science, doing research in Data Visualization. So basically I code andmake visualizations that reveal what data is trying to express.</p><p>My public code is at github: <a href=\"https://github.com/huyen-nguyen\">https://github.com/huyen-nguyen</a></p><p>📝</p><p>Um and I write manucripts - as a big part of research work. But this a is different kind of writing, which involvesless spontaneity and more rigorous methodology.</p><p>My publication page: <a href=\"https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&amp;hl=en\">https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&amp;hl=en</a></p><p>👩🏻‍🏫</p><p>… and lastly, my <em>very professional</em> site: <a href=\"https://huyennguyen.com\">huyennguyen.com</a></p>",
+            "url": "huyendoesstuff.github.io/stuff",
+            
+            
+            
+            
+            
+            "date_published": "2021-12-10T00:00:00-06:00",
+            "date_modified": "2021-12-10T00:00:00-06:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "huyendoesstuff.github.io/my-books",
             "title": "My books",
             "summary": "Books",

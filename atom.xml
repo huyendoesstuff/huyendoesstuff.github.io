@@ -4,13 +4,88 @@
  <title>huyendoesstuff</title>
  <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
  <link href="huyendoesstuff.github.io/"/>
- <updated>2021-12-10T19:07:10-06:00</updated>
+ <updated>2021-12-16T17:37:56-06:00</updated>
  <id>huyendoesstuff.github.io</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Feeling gooooood</title>
+   <link href="huyendoesstuff.github.io/feel-good"/>
+   <updated>2021-12-16T00:00:00-06:00</updated>
+   <id>huyendoesstuff.github.io/feel-good</id>
+   <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
+@import url('/assets/css/books.css');
+&lt;/style&gt;
+
+&lt;p&gt;A series of images either I found on the internet or in my life that make me smile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/FGcontent1.jpg&quot; alt=&quot;tweet&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been lucky enough to be able to share this with my parents and they get it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/FGcontent2.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No further description!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do I do stuff, even...</title>
+   <link href="huyendoesstuff.github.io/stuff"/>
+   <updated>2021-12-10T00:00:00-06:00</updated>
+   <id>huyendoesstuff.github.io/stuff</id>
+   <content type="html">&lt;p&gt;Yup. I guess I do.&lt;/p&gt;
+
+&lt;p&gt;🎶&lt;/p&gt;
+
+&lt;p&gt;I play the ukulele, baritone ukulele and a little bit guitar, and I like to sing along. I have this little place on
+soundcloud for all my
+random moments:
+&lt;a href=&quot;https://soundcloud.com/huyendoesstuff/&quot;&gt;https://soundcloud.com/huyendoesstuff/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;At first I just put it all there, to save the moments for &lt;em&gt;me&lt;/em&gt;. But later, there was this friend of mine who said to
+me that she actually liked these audios. And listening to them… means something to her. It
+warms my heart just thinking about that :)&lt;/p&gt;
+
+&lt;p&gt;✍🏼&lt;/p&gt;
+
+&lt;p&gt;Ah yes, this blog…&lt;/p&gt;
+
+&lt;p&gt;No doubts that I like writing – The reason for the existence of this very page. Most importantly, how to put one
+word after one another that closely reflect how I feel – That’s the beauty of the whole thing, learning to express
+myself, and also learning about myself.&lt;/p&gt;
+
+&lt;p&gt;📸&lt;/p&gt;
+
+&lt;p&gt;Sometimes I take pictures here and there &lt;a href=&quot;https://www.instagram.com/huyendoesstuff/&quot;&gt;https://www.instagram.com/huyendoesstuff/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;… Onto the professional stuff:&lt;/p&gt;
+
+&lt;p&gt;💻&lt;/p&gt;
+
+&lt;p&gt;I am currently a PhD candidate in Computer Science, doing research in Data Visualization. So basically I code and
+make visualizations that reveal what data is trying to express.&lt;/p&gt;
+
+&lt;p&gt;My public code is at github: &lt;a href=&quot;https://github.com/huyen-nguyen&quot;&gt;https://github.com/huyen-nguyen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;📝&lt;/p&gt;
+
+&lt;p&gt;Um and I write manucripts - as a big part of research work. But this a is different kind of writing, which involves
+less spontaneity and more rigorous methodology.&lt;/p&gt;
+
+&lt;p&gt;My publication page: &lt;a href=&quot;https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&amp;amp;hl=en&quot;&gt;https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&amp;amp;hl=en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;👩🏻‍🏫&lt;/p&gt;
+
+&lt;p&gt;… and lastly, my &lt;em&gt;very professional&lt;/em&gt; site: &lt;a href=&quot;https://huyennguyen.com&quot;&gt;huyennguyen.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>My books</title>
