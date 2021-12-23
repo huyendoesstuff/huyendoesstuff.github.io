@@ -2,7 +2,18 @@
   
     {
 
-      "title"    : "Feeling gooooood",
+      "title"    : "A sense of belonging",
+      "url"      : "/a-sense-of-belonging",
+      "category" : "",
+      "tags"     : "thoughts, books",
+      "date"     : "2021-12-22 00:00:00 -0600",
+      "description" : "near Christmas and all that"
+
+    } ,
+  
+    {
+
+      "title"    : "Feeling goood",
       "url"      : "/feel-good",
       "category" : "",
       "tags"     : "thoughts",
