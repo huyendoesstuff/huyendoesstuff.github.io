@@ -16,7 +16,7 @@ Having someone with whom you once felt so happy you could die being erased from 
 
 Some of the scenes I like:
 
-- The scene with two kids: Baby girl in pink cow boy hat held baby Joel's hand and walked him out from the bullying kids. Then they went home, with baby Joel placing a pillow on the baby girl's face in front of the house. Baby Joel's mom saw them, both of them waved at her: We're just playin'! It's such a sweet scene.
+- The scene with two kids: Baby girl in pink cow boy hat held baby Joel's hand and walked him out away from the bullying kids. Then they went home, with baby Joel placing a pillow on the baby girl's face in front of the house. Baby Joel's mom saw them, both of them waved at her: We're just playin'! It's such a sweet scene.
 
 - The scene at the end of the erasing procedure, with the beach house: 
 
