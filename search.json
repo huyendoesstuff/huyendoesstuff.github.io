@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Eternal Sunshine of the Spotless Mind (2004)",
+      "url"      : "/eternal-sunshine",
+      "category" : "",
+      "tags"     : "movies",
+      "date"     : "2021-12-25 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Would you lie to me?",
       "url"      : "/would-you-lie-to-me",
       "category" : "",
@@ -79,7 +90,7 @@
   
     {
 
-      "title"    : "My top series",
+      "title"    : "My series",
       "url"      : "/top-series",
       "category" : "",
       "tags"     : "movies, series",
@@ -90,7 +101,7 @@
   
     {
 
-      "title"    : "My top movies",
+      "title"    : "My movies",
       "url"      : "/top-movies",
       "category" : "",
       "tags"     : "movies",
