@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My top movies
+title: My movies
 description: My top 10 movies
 summary: My top 10 movies
 comments: true

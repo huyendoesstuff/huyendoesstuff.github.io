@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My top series
+title: My series
 description: My top series
 summary: My top series
 comments: true
