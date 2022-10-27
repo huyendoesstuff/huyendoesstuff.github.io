@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Would you lie to me?
-description: 
-summary:  
-comments: 
+description:
+summary:
+comments:
+published: false
 tags: [poem]
 ---
 
