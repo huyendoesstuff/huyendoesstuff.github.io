@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>huyendoesstuff</title>
- <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
- <link href="huyendoesstuff.github.io/"/>
- <updated>2021-12-25T03:41:21-06:00</updated>
- <id>huyendoesstuff.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-10-26T21:03:46-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,38 @@
 
  
  <entry>
+   <title>Again</title>
+   <link href="http://localhost:4000/again"/>
+   <updated>2022-10-26T00:00:00-05:00</updated>
+   <id>http://localhost:4000/again</id>
+   <content type="html">&lt;p&gt;&lt;i&gt;Baby girl, you’re gonna love again&lt;/i&gt;&lt;br /&gt;
+This time, it will be better than the last&lt;br /&gt;
+The shattered dreams, the broken pieces from the past&lt;br /&gt;
+Will be tender, and filled with love again&lt;br /&gt;
+The unnamed promises, hopeless romance&lt;br /&gt;
+Will be replaced by the warm presence of the heart&lt;br /&gt;
+and of the voice that says “I’m here.”&lt;/p&gt;
+
+&lt;p&gt;My sweet, I once had this fear&lt;br /&gt;
+Of being an unlovable driftwood&lt;br /&gt;
+Holding on to any shore,&lt;br /&gt;
+calling it home,&lt;br /&gt;
+giving it my heart&lt;br /&gt;
+Time and time again&lt;br /&gt;
+Hope fades away, &lt;br /&gt;
+with rain and tears,&lt;br /&gt;
+with wind and shivers and hurts&lt;br /&gt;
+Then comes one day&lt;br /&gt;
+Autumn breeze tells me&lt;br /&gt;
+“Baby girl, you’re gonna love again.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Eternal Sunshine of the Spotless Mind (2004)</title>
-   <link href="huyendoesstuff.github.io/eternal-sunshine"/>
+   <link href="http://localhost:4000/eternal-sunshine"/>
    <updated>2021-12-25T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/eternal-sunshine</id>
+   <id>http://localhost:4000/eternal-sunshine</id>
    <content type="html">&lt;p&gt;I just watched “Eternal Sunshine” for the second time. I feel differently about the movie this time. Surprisingly I like this frame:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/eternal-sunshine-2.png&quot; /&gt;&lt;/p&gt;
@@ -27,7 +55,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;The scene with two kids: Baby girl in pink cow boy hat held baby Joel’s hand and walked him out from the bullying kids. Then they went home, with baby Joel placing a pillow on the baby girl’s face in front of the house. Baby Joel’s mom saw them, both of them waved at her: We’re just playin’! It’s such a sweet scene.&lt;/p&gt;
+    &lt;p&gt;The scene with two kids: Baby girl in pink cow boy hat held baby Joel’s hand and walked him out away from the bullying kids. Then they went home, with baby Joel placing a pillow on the baby girl’s face in front of the house. Baby Joel’s mom saw them, both of them waved at her: We’re just playin’! It’s such a sweet scene.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;The scene at the end of the erasing procedure, with the beach house:&lt;/p&gt;
@@ -51,33 +79,10 @@
  </entry>
  
  <entry>
-   <title>Would you lie to me?</title>
-   <link href="huyendoesstuff.github.io/would-you-lie-to-me"/>
-   <updated>2021-12-24T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/would-you-lie-to-me</id>
-   <content type="html">&lt;p&gt;Would you lie to me?&lt;br /&gt;
-Pretending that you care&lt;br /&gt;
-When I’m awfully lonely&lt;/p&gt;
-
-&lt;p&gt;Would you lie to me?&lt;br /&gt;
-Pretending that you’re there&lt;br /&gt;
-When I’m facing my worst fear&lt;br /&gt;
-Of being abandoned, having no one near&lt;/p&gt;
-
-&lt;p&gt;Would you lie to me?&lt;br /&gt;
-Saying you want me close&lt;br /&gt;
-Even though you don’t mean it&lt;br /&gt;
-I just needed&lt;br /&gt;
-to hear&lt;br /&gt;
-someone says it&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>A sense of belonging</title>
-   <link href="huyendoesstuff.github.io/a-sense-of-belonging"/>
+   <link href="http://localhost:4000/a-sense-of-belonging"/>
    <updated>2021-12-22T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/a-sense-of=belonging</id>
+   <id>http://localhost:4000/a-sense-of=belonging</id>
    <content type="html">&lt;p&gt;The holidays are around the corner… of course I feel sad. I know that I can video call my family in VN, but I still miss the feeling of having a family by my side, a sense of belonging with my beloved in person, I guess. I thought of going back to ATL, but I don’t feel very welcomed just thinking about it; I guess I deserve more than that. Having a friend to keep me in check is great, which prevented me from jumping voluntarily into a potential dumpster fire.&lt;/p&gt;
 
 &lt;p&gt;A sense of belonging, being understood of where I’m coming from, where I’m heading towards and being loved for that. Wouldn’t that be wonderful? Feels good to be able to put it into words (finally? partially? I don’t know, I’m happy with this.)&lt;/p&gt;
@@ -90,9 +95,9 @@ someone says it&lt;/p&gt;
  
  <entry>
    <title>Feeling goood</title>
-   <link href="huyendoesstuff.github.io/feel-good"/>
+   <link href="http://localhost:4000/feel-good"/>
    <updated>2021-12-16T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/feel-good</id>
+   <id>http://localhost:4000/feel-good</id>
    <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
 @import url('/assets/css/books.css');
 &lt;/style&gt;
@@ -113,9 +118,9 @@ someone says it&lt;/p&gt;
  
  <entry>
    <title>Do I do stuff, even...</title>
-   <link href="huyendoesstuff.github.io/stuff"/>
+   <link href="http://localhost:4000/stuff"/>
    <updated>2021-12-10T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/stuff</id>
+   <id>http://localhost:4000/stuff</id>
    <content type="html">&lt;p&gt;Yup. I guess I do.&lt;/p&gt;
 
 &lt;p&gt;🎶&lt;/p&gt;
@@ -165,9 +170,9 @@ less spontaneity and more rigorous methodology.&lt;/p&gt;
  
  <entry>
    <title>My books</title>
-   <link href="huyendoesstuff.github.io/my-books"/>
+   <link href="http://localhost:4000/my-books"/>
    <updated>2021-10-24T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/my-books</id>
+   <id>http://localhost:4000/my-books</id>
    <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
 @import url('/assets/css/books.css');
 &lt;/style&gt;
@@ -271,9 +276,9 @@ less spontaneity and more rigorous methodology.&lt;/p&gt;
  
  <entry>
    <title>It's been a while</title>
-   <link href="huyendoesstuff.github.io/a-while"/>
+   <link href="http://localhost:4000/a-while"/>
    <updated>2021-10-12T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/a-while</id>
+   <id>http://localhost:4000/a-while</id>
    <content type="html">&lt;p&gt;Oh, hello, you!&lt;/p&gt;
 
 &lt;p&gt;It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.
@@ -300,9 +305,9 @@ interest.&lt;/p&gt;
  
  <entry>
    <title>The narrative on moving through life</title>
-   <link href="huyendoesstuff.github.io/the-narrative"/>
+   <link href="http://localhost:4000/the-narrative"/>
    <updated>2021-01-12T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/the-narrative</id>
+   <id>http://localhost:4000/the-narrative</id>
    <content type="html">&lt;p&gt;It’s been uneasy for me to write this down, but because of the amount of gratitude I
 held dearly in my heart for the support I got from these sensational words, I decided to start this one.&lt;/p&gt;
 
@@ -326,9 +331,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My series</title>
-   <link href="huyendoesstuff.github.io/top-series"/>
+   <link href="http://localhost:4000/top-series"/>
    <updated>2021-01-09T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-series</id>
+   <id>http://localhost:4000/top-series</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Fleabag&lt;/p&gt;
@@ -351,9 +356,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My movies</title>
-   <link href="huyendoesstuff.github.io/top-movies"/>
+   <link href="http://localhost:4000/top-movies"/>
    <updated>2020-12-30T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-movies</id>
+   <id>http://localhost:4000/top-movies</id>
    <content type="html">&lt;p&gt;/* Will add more comments to each of the movies later */&lt;/p&gt;
 
 &lt;ol&gt;
