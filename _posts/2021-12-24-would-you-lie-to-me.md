@@ -4,8 +4,8 @@ title: Would you lie to me?
 description:
 summary:
 comments:
-published: false
-tags: [poem]
+published: true
+tags: [poetry]
 ---
 
 Would you lie to me?<br>
@@ -22,4 +22,4 @@ Saying you want me close<br>
 Even though you don't mean it<br>
 I just needed<br>
 to hear<br>
-someone says it
+someone says it.
