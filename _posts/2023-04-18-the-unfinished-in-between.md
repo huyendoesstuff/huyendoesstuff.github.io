@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Unifinished In-between
+title: The Unfinished In-between
 description: your sharp edge deepens the old wound and tears my scars anew
 summary: your sharp edge deepens the old wound and tears my scars anew
 comments: true
