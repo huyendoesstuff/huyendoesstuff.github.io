@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>huyendoesstuff</title>
- <link href="huyendoesstuff.github.io/atom.xml" rel="self"/>
- <link href="huyendoesstuff.github.io/"/>
- <updated>2023-04-18T20:08:03-05:00</updated>
- <id>huyendoesstuff.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-02-06T23:26:23-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>The Unifinished In-between</title>
-   <link href="huyendoesstuff.github.io/the-unfinished-in-between"/>
-   <updated>2023-04-18T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/the-unfinished-in-between</id>
+   <title>The Unfinished In-between</title>
+   <link href="http://localhost:4000/the-unfinished-in-between"/>
+   <updated>2023-04-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/the-unfinished-in-between</id>
    <content type="html">&lt;p&gt;My story is paced in a notebook,&lt;br /&gt;
 filled with unfinished, written, blank pages,&lt;br /&gt;
 torn at the crease, screaming&lt;br /&gt;
@@ -44,9 +44,9 @@ putting an end to our undone story.&lt;br /&gt;&lt;/p&gt;
  
  <entry>
    <title>Again</title>
-   <link href="huyendoesstuff.github.io/again"/>
-   <updated>2022-10-26T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/again</id>
+   <link href="http://localhost:4000/again"/>
+   <updated>2022-10-26T00:00:00-04:00</updated>
+   <id>http://localhost:4000/again</id>
    <content type="html">&lt;p&gt;&lt;i&gt;Baby girl, you’re gonna love again&lt;/i&gt;&lt;br /&gt;
 This time, it will be better than the last&lt;br /&gt;
 The shattered dreams, the broken pieces from the past&lt;br /&gt;
@@ -72,9 +72,9 @@ Autumn breeze tells me&lt;br /&gt;
  
  <entry>
    <title>Eternal Sunshine of the Spotless Mind (2004)</title>
-   <link href="huyendoesstuff.github.io/eternal-sunshine"/>
-   <updated>2021-12-25T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/eternal-sunshine</id>
+   <link href="http://localhost:4000/eternal-sunshine"/>
+   <updated>2021-12-25T00:00:00-05:00</updated>
+   <id>http://localhost:4000/eternal-sunshine</id>
    <content type="html">&lt;p&gt;I just watched “Eternal Sunshine” for the second time. I feel differently about the movie this time. Surprisingly I like this frame:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/eternal-sunshine-2.png&quot; /&gt;&lt;/p&gt;
@@ -110,9 +110,9 @@ Autumn breeze tells me&lt;br /&gt;
  
  <entry>
    <title>Would you lie to me?</title>
-   <link href="huyendoesstuff.github.io/would-you-lie-to-me"/>
-   <updated>2021-12-24T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/would-you-lie-to-me</id>
+   <link href="http://localhost:4000/would-you-lie-to-me"/>
+   <updated>2021-12-24T00:00:00-05:00</updated>
+   <id>http://localhost:4000/would-you-lie-to-me</id>
    <content type="html">&lt;p&gt;Would you lie to me?&lt;br /&gt;
 Pretending that you care&lt;br /&gt;
 When I’m awfully lonely&lt;/p&gt;
@@ -133,9 +133,9 @@ someone says it.&lt;/p&gt;
  
  <entry>
    <title>A sense of belonging</title>
-   <link href="huyendoesstuff.github.io/a-sense-of-belonging"/>
-   <updated>2021-12-22T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/a-sense-of=belonging</id>
+   <link href="http://localhost:4000/a-sense-of-belonging"/>
+   <updated>2021-12-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/a-sense-of=belonging</id>
    <content type="html">&lt;p&gt;The holidays are around the corner… of course I feel sad. I know that I can video call my family in VN, but I still miss the feeling of having a family by my side, a sense of belonging with my beloved in person, I guess. I thought of going back to ATL, but I don’t feel very welcomed just thinking about it; I guess I deserve more than that. Having a friend to keep me in check is great, which prevented me from jumping voluntarily into a potential dumpster fire.&lt;/p&gt;
 
 &lt;p&gt;A sense of belonging, being understood of where I’m coming from, where I’m heading towards and being loved for that. Wouldn’t that be wonderful? Feels good to be able to put it into words (finally? partially? I don’t know, I’m happy with this.)&lt;/p&gt;
@@ -148,9 +148,9 @@ someone says it.&lt;/p&gt;
  
  <entry>
    <title>Feeling goood</title>
-   <link href="huyendoesstuff.github.io/feel-good"/>
-   <updated>2021-12-16T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/feel-good</id>
+   <link href="http://localhost:4000/feel-good"/>
+   <updated>2021-12-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/feel-good</id>
    <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
 @import url('/assets/css/books.css');
 &lt;/style&gt;
@@ -171,9 +171,9 @@ someone says it.&lt;/p&gt;
  
  <entry>
    <title>Do I do stuff, even...</title>
-   <link href="huyendoesstuff.github.io/stuff"/>
-   <updated>2021-12-10T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/stuff</id>
+   <link href="http://localhost:4000/stuff"/>
+   <updated>2021-12-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/stuff</id>
    <content type="html">&lt;p&gt;Yup. I guess I do.&lt;/p&gt;
 
 &lt;p&gt;🎶&lt;/p&gt;
@@ -223,9 +223,9 @@ less spontaneity and more rigorous methodology.&lt;/p&gt;
  
  <entry>
    <title>My books</title>
-   <link href="huyendoesstuff.github.io/my-books"/>
-   <updated>2021-10-24T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/my-books</id>
+   <link href="http://localhost:4000/my-books"/>
+   <updated>2021-10-24T00:00:00-04:00</updated>
+   <id>http://localhost:4000/my-books</id>
    <content type="html">&lt;style type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;
 @import url('/assets/css/books.css');
 &lt;/style&gt;
@@ -329,9 +329,9 @@ less spontaneity and more rigorous methodology.&lt;/p&gt;
  
  <entry>
    <title>It's been a while</title>
-   <link href="huyendoesstuff.github.io/a-while"/>
-   <updated>2021-10-12T00:00:00-05:00</updated>
-   <id>huyendoesstuff.github.io/a-while</id>
+   <link href="http://localhost:4000/a-while"/>
+   <updated>2021-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/a-while</id>
    <content type="html">&lt;p&gt;Oh, hello, you!&lt;/p&gt;
 
 &lt;p&gt;It’s been a while since the last time I was here. Oh, it’s exactly 9 months: January 12 and October 12.
@@ -358,9 +358,9 @@ interest.&lt;/p&gt;
  
  <entry>
    <title>The narrative on moving through life</title>
-   <link href="huyendoesstuff.github.io/the-narrative"/>
-   <updated>2021-01-12T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/the-narrative</id>
+   <link href="http://localhost:4000/the-narrative"/>
+   <updated>2021-01-12T00:00:00-05:00</updated>
+   <id>http://localhost:4000/the-narrative</id>
    <content type="html">&lt;p&gt;It’s been uneasy for me to write this down, but because of the amount of gratitude I
 held dearly in my heart for the support I got from these sensational words, I decided to start this one.&lt;/p&gt;
 
@@ -384,9 +384,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My series</title>
-   <link href="huyendoesstuff.github.io/top-series"/>
-   <updated>2021-01-09T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-series</id>
+   <link href="http://localhost:4000/top-series"/>
+   <updated>2021-01-09T00:00:00-05:00</updated>
+   <id>http://localhost:4000/top-series</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Fleabag&lt;/p&gt;
@@ -409,9 +409,9 @@ necessarily have to end my story with a forced positive note.&lt;/p&gt;
  
  <entry>
    <title>My movies</title>
-   <link href="huyendoesstuff.github.io/top-movies"/>
-   <updated>2020-12-30T00:00:00-06:00</updated>
-   <id>huyendoesstuff.github.io/top-movies</id>
+   <link href="http://localhost:4000/top-movies"/>
+   <updated>2020-12-30T00:00:00-05:00</updated>
+   <id>http://localhost:4000/top-movies</id>
    <content type="html">&lt;p&gt;/* Will add more comments to each of the movies later */&lt;/p&gt;
 
 &lt;ol&gt;
