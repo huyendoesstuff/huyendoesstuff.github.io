@@ -24,7 +24,7 @@ Feels great isn't it 😊
 
 #### Update:
 
-Update **July 2025**: I set up [GitHub action](.github/workflows/deploy.yml) to update `main` branch automatically as I push new commits to `source`. The following manual is no longer needed.
+Update **July 2025**: I set up [GitHub action](https://github.com/huyendoesstuff/huyendoesstuff.github.io/blob/source/.github/workflows/deploy.yml) to update `main` branch automatically as I push new commits to `source`. The following manual is no longer needed.
 
 Excerpt from [a recent visit in  **October 2021**]({% link _posts/2021-10-12-a-while.md %})
 
