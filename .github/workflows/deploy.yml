@@ -1,35 +1,40 @@
 name: Build and Deploy Jekyll
 
-on:
+on: # defines when to run this workflow
   push:
     branches:
-      - source
+      - source # triggers the workflow when pushing to `source` branch
 
 jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
+  build-deploy: # job name
+    runs-on: ubuntu-latest # virtual env provided by GitHub
 
     steps:
+      # checkout/download current commit from `source` into workflow "runner" (virtual machine)
       - name: Checkout source branch
         uses: actions/checkout@v4
 
+      # install Ruby to match local env
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
 
+      # install bundler and gem dependencies listed in Gemfile
       - name: Install dependencies
         run: |
-          gem install bundler -v 2.4.22
+          gem install bundler -v 2.4.22 
           bundle _2.4.22_ install
 
+      # build Jekyll site
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      - name: Deploy to master branch
+      # deploy to main branch
+      - name: Deploy to main branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          publish_branch: master
+          publish_branch: main
           force_orphan: true
