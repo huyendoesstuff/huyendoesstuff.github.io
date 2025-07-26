@@ -10,7 +10,7 @@ tags: [movies]
 
 I just watched "Eternal Sunshine" for the second time. I feel differently about the movie this time. Surprisingly I like this frame: 
 
-<img src="../assets/images/eternal-sunshine-2.png" />
+<img src="../../assets/images/eternal-sunshine-2.png" />
 
 Having someone with whom you once felt so happy you could die being erased from your memory seems like a relief at first and unbearable once you realize how many happy memories are actually leaving you. It hurts me to see how Joel hurts Clem; assumptions building up to judgments eventually kill the image of the other person in your mind.
 
@@ -26,7 +26,7 @@ Let's pretend we had one. Shall we? Gosh, how much I cried on this line.
 
 Joel told Clem that he was scared, that's why he walked out the door. She didn't know he was scared. He thought she knew that about him. It seems to me that this is the first time they were vulnerable with each other, and it happens to be at the end of their story, or at least the end of his memory about her that he wanted to erase. I noticed there is this one scene when Joel admitted to Clem that he was scared, he had a genuine, relieved, beautiful smile:
 
-<img src="../assets/images/eternal-sunshine-1.png" />
+<img src="../../assets/images/eternal-sunshine-1.png" />
 
 For a long time, I have had this habit in my head: Memories passing by, as if I'm on the train and I see them from the window, one after the other, or they're on the train, and I'm at the station watching them go by. Either way, they're passing right before my eyes. I see that exact kind of motion in "Eternal Sunshine," which is interesting to have your imagination actualized.
 
