@@ -30,13 +30,14 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      # capture commit message
+      # capture commit message and remove any existing SHA references
       - name: Get latest commit message
         id: getmsg
-        run: echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+        run: |
+          MSG=$(git log -1 --pretty=%s | sed 's/[a-f0-9]\{7,40\}//g' | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
+          echo "msg=$MSG" >> $GITHUB_OUTPUT
 
-
-      # deploy to main branch
+    # deploy to main branch
       - name: Deploy to main branch
         uses: peaceiris/actions-gh-pages@v3
         with:
