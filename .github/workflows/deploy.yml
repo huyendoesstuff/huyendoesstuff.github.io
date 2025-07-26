@@ -44,4 +44,4 @@ jobs:
           publish_dir: ./_site
           publish_branch: main
           commit_message: |
-            deploy ${{ github.sha }} from ${{ github.ref_name }}: ${{ steps.getmsg.outputs.msg }}
+            deploy ${{ github.sha }} ${{ steps.getmsg.outputs.msg }}
