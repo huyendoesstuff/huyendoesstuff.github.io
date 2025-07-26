@@ -34,10 +34,15 @@ jobs:
       - name: Get latest commit message
         id: getmsg
         run: |
-          MSG=$(git log -1 --pretty=%s | sed 's/[a-f0-9]\{7,40\}//g' | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//')
+          FULL_MSG=$(git log -1 --pretty=%s)
+          if [[ "$FULL_MSG" == deploy* ]]; then
+            MSG=$(echo "$FULL_MSG" | sed -E 's/^deploy\s+[a-f0-9]{7,40}\s*//')
+          else
+            MSG="$FULL_MSG"
+          fi
           echo "msg=$MSG" >> $GITHUB_OUTPUT
 
-    # deploy to main branch
+      # deploy to main branch
       - name: Deploy to main branch
         uses: peaceiris/actions-gh-pages@v3
         with:
