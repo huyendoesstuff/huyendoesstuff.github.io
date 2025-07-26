@@ -23,7 +23,10 @@ to me in the past but I will have (and `code`) my own blog now.
 Feels great isn't it 😊
 
 #### Update:
-Excerpt from [a recent visit in  October 2021]({% link _posts/2021-10-12-a-while.md %})
+
+Update **July 2025**: I set up [GitHub action](.github/workflows/deploy.yml) to update `main` branch automatically as I push new commits to `source`. The following manual is no longer needed.
+
+Excerpt from [a recent visit in  **October 2021**]({% link _posts/2021-10-12-a-while.md %})
 
 > I need to build the site with `jekyll build`, then take whatever within the `_site` folder only and put them in the
 `master` branch for deploying. I was doing it all wrong—no wonder why it didn't work as I expected.
