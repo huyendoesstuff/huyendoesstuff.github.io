@@ -33,7 +33,7 @@ jobs:
       # capture commit message
       - name: Get latest commit message
         id: getmsg
-        run: echo "msg<<EOF" >> $GITHUB_OUTPUT && git log -1 --pretty=%B >> $GITHUB_OUTPUT && echo "EOF" >> $GITHUB_OUTPUT
+        run: echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
 
 
       # deploy to main branch
@@ -44,4 +44,4 @@ jobs:
           publish_dir: ./_site
           publish_branch: main
           commit_message: |
-            Deploy from ${{ github.ref_name }} ${{ github.sha }}: ${{ steps.getmsg.outputs.msg }}
+            deploy ${{ github.sha }} from ${{ github.ref_name }}: ${{ steps.getmsg.outputs.msg }}
