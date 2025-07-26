@@ -30,17 +30,10 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      # capture commit message and remove any existing SHA references
+      # capture commit message from source
       - name: Get latest commit message
         id: getmsg
-        run: |
-          FULL_MSG=$(git log -1 --pretty=%s)
-          if [[ "$FULL_MSG" == deploy* ]]; then
-            MSG=$(echo "$FULL_MSG" | sed -E 's/^deploy\s+[a-f0-9]{7,40}\s*//')
-          else
-            MSG="$FULL_MSG"
-          fi
-          echo "msg=$MSG" >> $GITHUB_OUTPUT
+        run: echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
 
       # deploy to main branch
       - name: Deploy to main branch
@@ -50,4 +43,4 @@ jobs:
           publish_dir: ./_site
           publish_branch: main
           commit_message: |
-            deploy ${{ github.sha }} ${{ steps.getmsg.outputs.msg }}
+            deploy ${{ steps.getmsg.outputs.msg }}
