@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Minor Waltz
+title: Waltz in A Minor
 description:
 summary:
 comments:
