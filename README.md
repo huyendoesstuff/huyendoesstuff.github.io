@@ -1,6 +1,6 @@
 # huyendoesstuff
 
-Hi! It's Huyen here. I love writing and I wanted to have a simple themed blog, so here we are: [huyendoesstuff.github.io](https://huyendoesstuff.github.io).
+Hi! It's Huyen here. I like to write and wanted to have a simple-themed blog, so here we are: [huyendoesstuff.github.io](https://huyendoesstuff.github.io).
 
 I also like doing stuff, hence the name.
 
